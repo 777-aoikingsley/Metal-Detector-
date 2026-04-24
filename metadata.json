@@ -1,0 +1,6 @@
+{
+  "name": "CyberMine: Arduino Real-time Scanner",
+  "description": "A cyberpunk-themed real-time dashboard for Arduino sensor data, featuring Web Serial API integration and live status alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
